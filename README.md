@@ -11,4 +11,5 @@ In the developer section of the Polkadot JS UI, we modified the value of `someth
 
 ## Part 2
 To test the subscription of events, we made Alice to send 25 units to Bob, which the script has also managed to track:
+
 <img width="495" alt="Screenshot 2024-04-18 at 00 18 57" src="https://github.com/YADengUU/Substrate_A6/assets/131147818/d37dd017-16da-48e1-a4a6-430a12752ba9">
