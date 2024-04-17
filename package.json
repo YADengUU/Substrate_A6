@@ -1,0 +1,21 @@
+{
+  "name": "Substrate_A6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/YADengUU/Substrate_A6.git",
+  "author": "Yaqi Deng <yaqi.deng@igp.uu.se>",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^10.13.1",
+    "@polkadot/types": "^10.13.1",
+    "web3": "^4.7.0"
+  },
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
